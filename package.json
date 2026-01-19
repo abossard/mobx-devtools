@@ -93,6 +93,6 @@
         "write-file-webpack-plugin": "^4.1.0"
     },
     "dependencies": {
-        "geckodriver": "^1.10.0"
+        "geckodriver": "^4.0.0"
     }
 }
